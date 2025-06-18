@@ -1,0 +1,10 @@
+{
+    "name": "TETHER USD",
+    "symbol": "USDT",
+    "decimals": 18,
+    "description": "A stablecoin version of USD Tether for test/demo purposes.",
+    "website": "",
+    "explorer": "https://bscscan.com/token/0x5aA16dDA628d25fFA95767F02de92145eA955c47",
+    "status": "active",
+    "id": "0x5aA16dDA628d25fFA95767F02de92145eA955c47"
+}
