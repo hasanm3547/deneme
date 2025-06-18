@@ -1,0 +1,15 @@
+{
+  "name": "FakeUSDT Token List",
+  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/assets/master/logo.png",
+  "timestamp": "2025-06-18T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 97,
+      "address": "0xe021A7E4ae5fF484e4d1C90c89fCe6F6A21e4a68",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/assets/master/blockchains/smartchain/assets/0xe021a7e4ae5ff484e4d1c90c89fce6f6a21e4a68/logo.png"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "type": "BEP20",
+  "decimals": 6,
+  "description": "Fake USDT created for testing and demonstration purposes on BSC Testnet.",
+  "website": "https://example.com",
+  "explorer": "https://testnet.bscscan.com/token/0xe021A7E4ae5fF484e4d1C90c89fCe6F6A21e4a68",
+  "status": "active",
+  "id": "usdt-fake"
+}
